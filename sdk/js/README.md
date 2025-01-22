@@ -35,7 +35,7 @@ main();
 Fetch all previous verified inference requests:
 
 ```javascript
-const Civitas = require('Sadness-js');
+const Sadness = require('Sadness-js');
 
 async function main() {
     const result = await Civitas.getHistory(process.env['ARATHIEL_API_KEY'])
@@ -48,7 +48,7 @@ main()
 Fetch a single verified inference request by hash:
 
 ```javascript
-const Civitas = require('Sadness-js');
+const Sadness = require('Sadness-js');
 
 async function main() {
     const result = await Sadness.getByHash(
