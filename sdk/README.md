@@ -1,9 +1,9 @@
-# Proof of Civitas SDK
+# Proof of Sadness SDK
 
-This directory contains Python and Javascript SDKs for Proof of Civitas. These SDKs are an abstraction layer built for improved developer experience on top of Arathiel's [verified inference](/verified-inference/) architecture.
+This directory contains Python and Javascript SDKs for Proof of Sadness. These SDKs are an abstraction layer built for improved developer experience on top of Arathiel's [verified inference](/verified-inference/) architecture.
 
 ## Quickstart
-To get started with building verifieable AI agents go to Proof of Civitas [SDK quickstart docs](https://arathiel.gitbook.io/arathiel).
+To get started with building verifieable AI agents go to Proof of Sadness [SDK quickstart docs](https://arathiel.gitbook.io/arathiel).
 
 
 ## High Level Overview
