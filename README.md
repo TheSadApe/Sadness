@@ -2,7 +2,7 @@
 
 Sadness enables developers to build autonomous, fully on-chain verifiable AI agents with an OpenAI-compatible Proof of Sadness SDK.
 
-<img src="assets/sadness-banner.jpg" alt="Banner" width="100%" />
+<img src="assets/Sadness-banner.jpg" alt="Banner" width="100%" />
 <p align="center">
       <a href="https://x.com/TheSadApe">
       <img src="https://img.shields.io/twitter/follow/TheSadApe"
